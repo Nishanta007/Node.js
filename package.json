@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil-sidhu/node-js.git"
+  },
+  "keywords": [
+    "Code",
+    "with",
+    "Neeshu"
+  ],
+  "author": "Neeshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anil-sidhu/node-js/issues"
+  },
+  "homepage": "https://github.com/anil-sidhu/node-js#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "express": "^4.19.2",
+    "simple-node-logger": "^21.8.12"
+  }
+}
